@@ -1,3 +1,2 @@
-#escribir saludos para cada integrante del equipo
-
-print("Hola Isaac")
+# Saludos del equipo
+print("Hola Isaac - Funcionalidad de Isaac lista")
